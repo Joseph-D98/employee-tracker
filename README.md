@@ -1,7 +1,7 @@
   # Employee Tracker 
 
   ## Description
-  Node application designed to manipulate employee data in a sequal database
+  A node application designed to manipulate employee data in a sequal database
   ![project image](./assets/node.png)
   
   ## Installation
