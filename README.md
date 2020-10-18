@@ -5,8 +5,8 @@
   ![project image](./assets/app.png)
   
   ## Installation
-  Packages required to run this program are: npm install, run schema.sql/seeds.sql
-
+  Packages required to run this program are: run sql files, npm install
+  
   ## Technologies Used
   Inquirer, MySQL
 
