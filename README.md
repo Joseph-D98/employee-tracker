@@ -2,6 +2,7 @@
 
   ## Description
   A node application designed to manipulate employee data in a sequal database
+  Video Demonstration: https://drive.google.com/file/d/11lSFnyY6YeJJpujMr1Ze21obs7YLGYEN/view
   ![project image](./assets/node.png)
   
   ## Installation
