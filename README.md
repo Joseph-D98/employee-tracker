@@ -2,7 +2,7 @@
 
   ## Description
   Node application designed to manipulate employee data in a sequal database
-  ![project image](./assets/node.PNG)
+  ![project image](./assets/node.png)
   
   ## Installation
   Packages required to run this program are: run sql files, npm install
