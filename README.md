@@ -2,11 +2,11 @@
 
   ## Description
   Node application designed to manipulate employee data in a sequal database
-  ![project image](./assets/app.png)
+  ![project image](./assets/node.PNG)
   
   ## Installation
   Packages required to run this program are: run sql files, npm install
-  
+
   ## Technologies Used
   Inquirer, MySQL
 
